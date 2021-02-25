@@ -3,10 +3,10 @@
 /* VARIABLES CSS*/
 /*COLORES*/
 :root {
-    --first-color: #e3f8ff;
-    --second-color: #DCFAFB;
-    --third-color: #FFE8DF;
-    --acent-color: #ff5151;
+    --first-color: #a6e6f1;
+    --second-color: #f0dcfb;
+    --third-color: #a6e6f1;
+    --acent-color: #000000;
     --dark-color: #161616;
 
 }
@@ -56,8 +56,7 @@ a {
 
 /* LAYOUT */
 .main {
-    padding: 2rem 0;
-}
+ padding: 2rem 0;}
 
 .bd-grid {
     display: grid;
